@@ -11,7 +11,7 @@
 2. 
 V = 2 * 20 = 40
 P = 40 * 20 = 800
-Vout = 
+The resistor you will need to use is the 150 Ohm resistor. 
 
 # Part 2
 
