@@ -41,10 +41,16 @@ https://github.com/user-attachments/assets/8eebdb9a-3c32-4911-a82f-86ba6fbb6117
 <img width="338" height="326" alt="image" src="https://github.com/user-attachments/assets/14fb41f3-d1ce-4919-a0d7-afdf4d15be23" />
 
 
+List of components:
+
+<img width="911" height="328" alt="image" src="https://github.com/user-attachments/assets/696ad186-2864-4255-ad6c-fcf952d4d796" />
+
+
 # CAD Prototype
 When designing the prototype, i wanted a shape that felt good to hold in the hand, sturdy enough to swing around, and immersive enough to feel like you were actually punching in the game. That i why i went for a more vertical rectangular shape, as proven by the WII remote, the shape is comfortable to hold and swing around. 
 <img width="681" height="290" alt="image" src="https://github.com/user-attachments/assets/19943fa9-e1c3-49f2-8535-fe20bcd8723d" />
 
 I have added 2 holes on the top for the buttons to register player inputs, and 2 smaller holes above that that will fit the LED's to show that the input is being played.
+
 
 
