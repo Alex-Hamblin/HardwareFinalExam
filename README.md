@@ -27,5 +27,8 @@ I have used 2 push buttons for dodging and blocking, each with a corresponding L
 
 <img width="629" height="338" alt="image" src="https://github.com/user-attachments/assets/dad27463-0733-4328-963e-4e964528cbd8" />
 
+<img width="338" height="326" alt="image" src="https://github.com/user-attachments/assets/14fb41f3-d1ce-4919-a0d7-afdf4d15be23" />
+
+
 # CAD Prototype
 
