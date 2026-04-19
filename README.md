@@ -25,10 +25,14 @@ As tinkerCAD does not have an accellerometer in its inputs, i will be using a fl
 
 I have used 2 push buttons for dodging and blocking, each with a corresponding LED to show that the input was registered, and a flex sensor with an LED to register that an attack was made. 
 
-<img width="629" height="338" alt="image" src="https://github.com/user-attachments/assets/dad27463-0733-4328-963e-4e964528cbd8" />
+I have added a vibration motor that plays when an attack is performed, this lets the player know that their input was registered without having to put extra LEDs
+<img width="642" height="322" alt="image" src="https://github.com/user-attachments/assets/c2318800-d2df-4570-a50d-2cde5be5bb9e" />
+
 
 <img width="338" height="326" alt="image" src="https://github.com/user-attachments/assets/14fb41f3-d1ce-4919-a0d7-afdf4d15be23" />
 
 
 # CAD Prototype
+When designing the prototype, i wanted a shape that felt good to hold in the hand, sturdy enough to swing around, and immersive enough to feel like you were actually punching in the game. That i why i went for a more vertical rectangular shape, as proven by the WII remote, the shape is comfortable to hold and swing around. 
+<img width="681" height="290" alt="image" src="https://github.com/user-attachments/assets/19943fa9-e1c3-49f2-8535-fe20bcd8723d" />
 
