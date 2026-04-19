@@ -52,5 +52,5 @@ When designing the prototype, i wanted a shape that felt good to hold in the han
 
 I have added 2 holes on the top for the buttons to register player inputs, and 2 smaller holes above that that will fit the LED's to show that the input is being played.
 
-
+When i was trying to create the schematics for the electrical components in KiCAD, i was having issues with them not correctly appearing within the PCB editor, causing me to have to design the controller without being able to view the board. So the shape and design of the controller is designed around the ideal position of all of the components. 
 
