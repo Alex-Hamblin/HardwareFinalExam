@@ -53,4 +53,13 @@ When designing the prototype, i wanted a shape that felt good to hold in the han
 I have added 2 holes on the top for the buttons to register player inputs, and 2 smaller holes above that that will fit the LED's to show that the input is being played.
 
 When i was trying to create the schematics for the electrical components in KiCAD, i was having issues with them not correctly appearing within the PCB editor, causing me to have to design the controller without being able to view the board. So the shape and design of the controller is designed around the ideal position of all of the components. 
+<img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/524cbe80-fe09-43be-b49a-69c6f27719e8" /> 
+When generating the design based off of the sketch, it only generated the connection between the Acclerometer and the Arduino, and did not generate the rest of the components. 
+
+# bill of materials 
+<img width="923" height="329" alt="image" src="https://github.com/user-attachments/assets/72b4ff9b-d162-4cb0-a230-91959ffa0b30" />  
+
+# Technical Drawings
+<img width="416" height="293" alt="image" src="https://github.com/user-attachments/assets/940024f5-f713-4b7f-9207-ca408c9132ed" />
+
 
